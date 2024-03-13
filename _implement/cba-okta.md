@@ -4,7 +4,7 @@ collection: implement
 title: Configure Smart Card Login in Okta
 pubdate: 2024--03
 type: Markdown
-permalink: /implement/okta/
+permalink: /implement/cba-okta/
 description: This guide is a walkthrough to configure PIV Smart Card Login for Okta
 sidenav: implement
 sticky_sidenav: true
