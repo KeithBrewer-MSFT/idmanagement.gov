@@ -37,8 +37,8 @@ The majority of engineering guides are focused on helping agencies configure PIV
    3. [Microsoft Outlook (on-premise)]({{site.baseurl}}/implement/outlook)
    4. [Firefox Browser]({{site.baseurl}}/implement/scl-firefox)
    5. [SSH Command Line]({{site.baseurl}}/implement/scl-ssh/)
-   6. Certificate-based Authentication on Azure AD (Coming soon!)
-   7. Certificate-based Authentication on Okta (Coming soon!)
+   6. [Certificate-based Authentication on Azure]({{site.baseurl}}/implement/cba-azure/)
+   7. [Certificate-based Authentication on Okta]({{site.baseurl}}/implement/cba-okta/)
 2. FIDO2 Configuration
    1. [Windows Hello for Business]({{site.baseurl}}/implement/whfb)
    2. Security keys (Coming soon!)
@@ -73,7 +73,7 @@ You can find additional guides across agency websites by using a few simple meth
 
 1. Search on the Internet: include the _server_ or _application_ or _topic_ and add "+PIV +CAC"
 2. Search on the Internet: include the _server_ or _application_ or _topic_ and add "+x509"
-3. Search on Max.gov:  [Max.gov](https://max.gov){:target="_blank"}{:rel="noopener noreferrer"}{:class="usa-link usa-link--external"} requires you to log in.  Try searching for the topic or guide.   
+3. Search on Max.gov: [Max.gov](https://max.gov){:target="_blank"}{:rel="noopener noreferrer"}{:class="usa-link usa-link--external"} requires you to log in.  Try searching for the topic or guide.   
 
 If you don't find what you're looking for, open an [Issue]({{site.repourl}}/issues/new){:target="_blank"}{:rel="noopener noreferrer"}.  We can help look through the archives of guides that haven't been posted yet or help you send a request to the government listserves.  
 
