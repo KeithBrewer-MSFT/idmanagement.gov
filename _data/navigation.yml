@@ -38,7 +38,7 @@ implement:
     href: /implement/scl-firefox/
   - text: Windows Hello for Business on Azure AD
     href: /implement/whfb/
-  - text: Certificate-Based Authentication on Azure AD (Coming Soon!)
+  - text: Certificate-Based Authentication on Azure AD
     href: /implement/cba-azure/
   - text: Certificate-Based Authentication on Okta
     href: /implement/cba-okta/
